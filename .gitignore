@@ -1,3 +1,5 @@
 var/test.txt
 var/test.log
 *.env
+*.xml
+
