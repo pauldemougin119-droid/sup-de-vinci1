@@ -4,3 +4,4 @@ var/test.log
 *.xml
 *.obj
 *.jsson
+config.ini
